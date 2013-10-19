@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="10" height="15" tilewidth="64" tileheight="64">
+ <tileset firstgid="1" name="FirstSceneBg" tilewidth="64" tileheight="64">
+  <image source="FirstSceneBg.png" width="640" height="960"/>
+ </tileset>
+ <tileset firstgid="151" name="language" tilewidth="64" tileheight="64">
+  <image source="language.png" width="640" height="960"/>
+ </tileset>
+ <layer name="块层 1" width="10" height="15">
+  <data encoding="base64" compression="zlib">
+   eJwNwwc3FgAAAMCPjKzISkK2kqxCRokyMxMyUqREGZWQoiI7VOT3dvfeBQUCgWDPGWKoYYZ73ggjjTLaGC8Ya5wXjTfBRJNM9pIpXjbVK6aZboZXzTTLbHPMNc98C7zmdQu9YZE3LbbEUsss95a3rbDSKu9YbY211nnXe9Z73wYbfeBDm2y2xVbbbPeRHXbaZbc99vrYPp/Y74CDPnXIYUcc9ZljPveF40740klf+dop3zjtjG9956xzzrvgez/40UU/ueSyK3521S9+dc11v/ndH2646U+33HbHXffc98BfHnrksb/9419PPPWfZ/4HCgUsPg==
+  </data>
+ </layer>
+ <objectgroup name="menuLayer" width="10" height="15">
+  <object name="PlayerBtn" x="320" y="576"/>
+ </objectgroup>
+ <layer name="块层 2" width="10" height="15" visible="0">
+  <data encoding="base64" compression="zlib">
+   eJwNwwc3FgAAAMCPrIwUGSWhUtb/NUplZa+syt5bQ0WRREJEQpFR995dfiAQKLDQIu/7wGIf+sjHllhqmeVW+MRKq6y2xlrrrLfBRpts9qktttpmux0+87kv7LTLbnvstc9+Bxx0yGFHHHXMcSecdMppZ3zpK1/7xlnf+s73zjnvBz+64KKfXPKzy35xxVW/uuY3191w0+9uue0Pd9z1p3v+ct8DD/3tH4889q8nnnrmuf8MBGGwFwwx1DDDjfCikUYZbYyXjPWyV4wz3qsmmGiSyV7zuineMNWbppluhre87R0zves9s8w2x1zz/A+iFVdP
+  </data>
+ </layer>
+ <objectgroup name="languageObjLayer" width="10" height="15">
+  <object x="192" y="256"/>
+  <object x="448" y="256"/>
+  <object x="448" y="358"/>
+  <object x="192" y="358"/>
+  <object x="192" y="474"/>
+  <object x="192" y="576"/>
+  <object x="192" y="685"/>
+  <object x="448" y="685"/>
+  <object x="448" y="576"/>
+  <object x="448" y="474"/>
+ </objectgroup>
+</map>

@@ -1,0 +1,33 @@
+/* 
+  Localizable.strings
+  Fruit Pop
+
+  Created by long shenghua on 13-10-12.
+
+*/
+"The Fruit Pop"="Le fruit Pop";
+"Boosters"="boosters";
+//"Extra time"="Le temps supplémentaire";
+"Extra time"="supplémentaire";
+"Cost:"="coût:";
+"The Store"="magasiner";
+"Buy"="Acheter";
+"Your purchase was successful"="achat réussi";
+"OK"="approuvé";
+"Your purchase was failed"="achat échoué";
+"Try Again"="Try Again";
+"Purchasing..."="Achats ...";
+"20000 coins"="20000 pièces";
+"50000 coins"="50000 pièces";
+"135000 coins"="135000 pièces de monnaie";
+"300000 coins"="300000 pièces de monnaie";
+"700000 coins"="700000 pièces de monnaie";
+"Game Over"="Game Over";
+"tortoise"="tortue";
+"Time slows down"="Le temps ralentit";
+"Alarm Clock"="réveil";
+"Add 25 seconds"="Ajouter 25 secondes";
+"Bomb"="bombe";
+"Eliminate the surrounding fruit"="Éliminer les fruits qui entoure";
+"Thank You"="Merci";
+"I have %i points, more than you!"="J'ai des points de %i, plus que vous!#Le fruit Pop#https://itunes.apple.com/us/app/the-fruit-pop/id725961876?ls=1&mt=8";

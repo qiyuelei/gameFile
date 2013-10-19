@@ -1,0 +1,32 @@
+/* 
+  Localizable.strings
+  Fruit Pop
+
+  Created by long shenghua on 13-10-12.
+
+*/
+"The Fruit Pop"="फल पॉप";
+"Boosters"="बूस्टर्स";
+"Extra time"="अधिक समय";
+"Cost:"="लागत:";
+"The Store"="दुकान";
+"Buy"="खरीदना";
+"Your purchase was successful"="सफल खरीद";
+"OK"="निर्धारण करें";
+"Your purchase was failed"="विफल खरीद";
+"Try Again"="फिर से कोशिश करें";
+"Purchasing..."="की खरीद ...";
+"20000 coins"="20000 सिक्के";
+"50000 coins"="50000 सिक्के";
+"135000 coins"="135000 सिक्के";
+"300000 coins"="300000 सिक्के";
+"700000 coins"="700000 सिक्के";
+"Game Over"="खेल खत्म";
+"tortoise"="कछुआ";
+"Time slows down"="समय धीमा";
+"Alarm Clock"="अलार्म घड़ी";
+"Add 25 seconds"="25 सेकंड्स";
+"Bomb"="बम";
+"Eliminate the surrounding fruit"="आसपास के फल को हटा दें";
+"Thank You"="धन्यवाद";
+"I have %i points, more than you!"="मुझे लगता है कि आप अधिक से अधिक %i अंक है!#फल पॉप#https://itunes.apple.com/us/app/the-fruit-pop/id725961876?ls=1&mt=8";

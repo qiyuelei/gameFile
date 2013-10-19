@@ -1,0 +1,30 @@
+/* 
+  Localizable.strings
+  Fruit Pop
+
+  Created by long shenghua on 13-10-12.
+
+*/
+"Boosters"="помощник";
+"Extra time"="Дополнительное время";
+"Cost:"="Стоимость:";
+"The Store"="магазин";
+"Buy"="купить";
+"Your purchase was successful"="Удачной покупки";
+"OK"="хорошо";
+"Your purchase was failed"="Незавершенная покупка";
+"Try Again"="Попробуйте еще раз";
+"Purchasing..."="Покупка ...";
+"20000 coins"="20000 монет";
+"50000 coins"="50000 монет";
+"135000 coins"="135000 монет";
+"300000 coins"="300000 монет";
+"700000 coins"="700000 монет";
+"Game Over"="Game Over";
+"tortoise"="черепаха";
+"Time slows down"="Время замедляется";
+"Alarm Clock"="Будильник";
+"Add 25 seconds"="Добавить 25 секунд";
+"Bomb"="бомба";
+"Eliminate the surrounding fruit"="Отсеивать окружающий фруктов";
+"Thank You"="спасибо";

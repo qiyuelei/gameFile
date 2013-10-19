@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>English</key>
+	<dict>
+		<key>TitleLanguageTTF</key>
+		<string>Select Language:</string>
+		<key>CurLanguageTTF</key>
+		<string>Current Language: </string>
+		<key>ScoreBgTTF</key>
+		<string>Score</string>
+	</dict>
+	<key>Chinese</key>
+	<dict>
+		<key>TitleLanguageTTF</key>
+		<string>选择语言：</string>
+		<key>CurLanguageTTF</key>
+		<string>当前语言：</string>
+		<key>ScoreBgTTF</key>
+		<string>分数</string>
+	</dict>
+	<key>contents</key>
+	<array>
+		<string>china</string>
+		<string>china1</string>
+		<string>china2</string>
+		<string>china3</string>
+		<string>china4</string>
+		<string>hanyu</string>
+		<string>deyu</string>
+		<string>Japan</string>
+		<string>English</string>
+		<string>中文</string>
+	</array>
+</dict>
+</plist>

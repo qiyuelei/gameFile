@@ -1,0 +1,30 @@
+/* 
+  Localizable.strings
+  Fruit Pop
+
+  Created by long shenghua on 13-10-12.
+
+*/
+"Boosters"="小道具";
+"Extra time"="延長時間";
+"Cost:"="コスト：";
+"The Store"="ショップ";
+"Buy"="購買";
+"Your purchase was successful"="成功した購入";
+"OK"="よし";
+"Your purchase was failed"="失敗した購入";
+"Try Again"="再試行する";
+"Purchasing..."="の購入...";
+"20000 coins"="20000コイン";
+"50000 coins"="50000コイン";
+"135000 coins"="135000コイン";
+"300000 coins"="300000コイン";
+"700000 coins"="700000コイン";
+"Game Over"="ゲームオーバー";
+"tortoise"="亀";
+"Time slows down"="時間が遅くなる";
+"Alarm Clock"="目覚まし時計";
+"Add 25 seconds"="25秒の増加";
+"Bomb"="爆弾";
+"Eliminate the surrounding fruit"="周囲の果実をなくす";
+"Thank You"="ありがとう";

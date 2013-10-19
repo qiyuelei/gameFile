@@ -1,0 +1,32 @@
+/* 
+  Localizable.strings
+  Fruit Pop
+
+  Created by long shenghua on 13-10-12.
+
+*/
+"The Fruit Pop"="과일 팝";
+"Boosters"="부스터";
+"Extra time"="여분의 시간";
+"Cost:"="비용 :";
+"The Store"="쇼핑";
+"Buy"="사다";
+"Your purchase was successful"="성공적인 구매";
+"OK"="승인";
+"Your purchase was failed"="실패 구매";
+"Try Again"="다시 시도";
+"Purchasing..."="구입 ...";
+"20000 coins"="20000 동전";
+"50000 coins"="50000 동전";
+"135000 coins"="135000 동전";
+"300000 coins"="300000 동전";
+"700000 coins"="700000 동전";
+"Game Over"="게임 오버";
+"tortoise"="남생이";
+"Time slows down"="시간이 느려집니다";
+"Alarm Clock"="알람 시계";
+"Add 25 seconds"="25 초 추가";
+"Bomb"="폭탄";
+"Eliminate the surrounding fruit"="주변의 열매를 제거";
+"Thank You"="감사합니다";
+"I have %i points, more than you!"="나는 당신보다 더 %i 포인트를!#과일 팝#https://itunes.apple.com/us/app/the-fruit-pop/id725961876?ls=1&mt=8";

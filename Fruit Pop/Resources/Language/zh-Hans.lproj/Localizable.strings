@@ -1,0 +1,32 @@
+/* 
+  Localizable.strings
+  Fruit Pop
+
+  Created by long shenghua on 13-10-12.
+
+*/
+"The Fruit Pop"="水果连连消";	
+"Boosters"="道具";
+"Extra time"="额外时间";
+"Cost:"="花费：";
+"The Store"="商店";
+"Buy"="购买";
+"Your purchase was successful"="购买成功";
+"OK"="确定";
+"Your purchase was failed"="购买失败";
+"Try Again"="再试一次";
+"Purchasing..."="购买中...";
+"20000 coins"="20000 金币";
+"50000 coins"="50000 金币";
+"135000 coins"="135000 金币";
+"300000 coins"="300000 金币";
+"700000 coins"="700000 金币";
+"Game Over"="游戏结束";
+"tortoise"="乌龟";
+"Time slows down"="时间变慢";
+"Alarm Clock"="闹钟";
+"Add 25 seconds"="增加25秒时间";
+"Bomb"="炸弹";
+"Eliminate the surrounding fruit"="消除周围的水果";
+"Thank You"="谢谢";
+"I have %i points, more than you!"="我%i分了，不小心超过了啦！#水果连连消#https://itunes.apple.com/us/app/the-fruit-pop/id725961876?ls=1&mt=8";
