@@ -1,0 +1,18 @@
+/* 
+  Localizable.strings
+  Pet Collapse
+
+  Created by long shenghua on 13-10-25.
+
+*/
+"Your purchase was successful"="성공적인 구매";
+"OK"="승인";
+"Your purchase was failed"="실패 구매";
+"Try Again"="다시 시도";
+"Purchasing..."="구입 ...";
+"Thank You"="감사합니다";
+"I have %i points, more than you!#Pet Collapse#https://itunes.apple.com/us/app/pet-collapse/id731781280?ls=1&mt=8" = "나는 당신보다 내가 가리키는 %가!https://itunes.apple.com/us/app/pet-collapse/id731781280?ls=1&mt=8";
+"Best Score:"="최고 점수 :";
+"Game Score"="게임 점수";
+"Score:"="점수:";
+"Score"="점수";
