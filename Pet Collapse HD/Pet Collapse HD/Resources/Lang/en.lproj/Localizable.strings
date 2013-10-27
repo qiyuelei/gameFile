@@ -1,0 +1,17 @@
+/* 
+  Localizable.strings
+  Pet Collapse
+
+  Created by long shenghua on 13-10-25.
+
+*/
+"Your purchase was successful"="Your purchase was successful";
+"OK"="OK";
+"Your purchase was failed"="Your purchase was failed";
+"Try Again"="Try Again";
+"Purchasing..."="Purchasing...";
+"Thank You"="Thank You";
+"I have %i points, more than you!#Pet Collapse#https://itunes.apple.com/us/app/pet-collapse-hd/id733242821?ls=1&mt=8" = "I have %i points, more than you!#Pet Collapse#https://itunes.apple.com/us/app/pet-collapse-hd/id733242821?ls=1&mt=8";
+"Best Score:"="Best Score:";
+"Game Score"="Game Score";
+"Score:"="Score:";

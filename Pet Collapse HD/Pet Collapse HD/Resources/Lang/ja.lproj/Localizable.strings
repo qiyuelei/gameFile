@@ -1,0 +1,18 @@
+/* 
+  Localizable.strings
+  Pet Collapse
+
+  Created by long shenghua on 13-10-25.
+
+*/
+"Your purchase was successful"="成功した購入";
+"OK"="よし";
+"Your purchase was failed"="失敗した購入";
+"Try Again"="再試行する";
+"Purchasing..."="の購入...";
+"Thank You"="ありがとう";
+"I have %i points, more than you!#Pet Collapse#https://itunes.apple.com/us/app/pet-collapse-hd/id733242821?ls=1&mt=8" = "私は、あなたよりも私がポイント％を持っている！#https://itunes.apple.com/us/app/pet-collapse-hd/id733242821?ls=1&mt=8";
+"Best Score:"="ベストスコア：";
+"Game Score"="ゲームスコア";
+"Score:"="スコア：";
+"Score"="スコア";

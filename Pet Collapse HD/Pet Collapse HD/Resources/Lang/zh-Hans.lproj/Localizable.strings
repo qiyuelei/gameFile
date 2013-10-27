@@ -1,0 +1,19 @@
+/* 
+  Localizable.strings
+  Pet Collapse
+
+  Created by long shenghua on 13-10-25.
+
+*/
+"Your purchase was successful"="购买成功";
+"Your purchase was failed"="购买失败";
+"Try Again"="再试一次";
+"Purchasing..."="购买中...";
+"Thank You"="谢谢";
+"Best Score:" = "最高分:";
+"Game Score" = "游戏得分";
+"Score:" = "得分:";
+"Score" = "得分";
+"OK" = "确定";
+"Pet Collapse" = "宠物爆破HD";
+"I have %i points, more than you!#Pet Collapse#https://itunes.apple.com/us/app/pet-collapse-hd/id733242821?ls=1&mt=8" = "我%i分了，已经超过你喽！#宠物爆破#https://itunes.apple.com/us/app/pet-collapse-hd/id733242821?ls=1&mt=8";

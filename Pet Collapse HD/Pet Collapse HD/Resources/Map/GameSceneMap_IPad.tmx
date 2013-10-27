@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="12" height="16" tilewidth="64" tileheight="64">
+ <tileset firstgid="1" name="GameSceneBg_IPad" tilewidth="64" tileheight="64">
+  <image source="GameSceneBg_IPad.png" width="768" height="1024"/>
+ </tileset>
+ <layer name="块层 1" width="12" height="16">
+  <data encoding="base64" compression="zlib">
+   eJy1w4dWDQAAAND3G2kRKhLKaKCSXYkW2gqVVZFKoUV2QmkiJZsSiVTyae5PuOfcoEAgsMJgQww1zHBXusoIV7vGtUYaZbTrXG+MG4x1o5vcbJzxbnGr29xugokmmewOd7rLFFNNc7fp7nGv+9zvAQ96yAwzzfKw2R7xqDnmmme+BR7zuCcstMhiSyy1zHJPWmGlpzztGaustsaznvO8F7xorXXWe8nLNnjFRpts9qottnrN696wzXY77LTLm96y29ve8a73vO8DH9rjI3t97BOf2me/zxxw0CGHHXHU577wpWO+ctwJXzvpG9/6zvd+8KOf/OwXp5z2qzN+87uz/nDOn/5y3t8uuOiSf1z2b+D/+wehAEc1
+  </data>
+ </layer>
+</map>

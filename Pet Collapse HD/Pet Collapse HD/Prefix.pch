@@ -1,0 +1,8 @@
+//
+// Prefix header for all source files of the 'Pet Collapse HD' target in the 'Pet Collapse HD' project
+//
+
+#ifdef __OBJC__
+	#import <Foundation/Foundation.h>
+	#import <UIKit/UIKit.h>
+#endif
